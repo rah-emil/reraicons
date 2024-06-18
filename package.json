@@ -1,6 +1,6 @@
 {
   "name": "@rah-emil/reraicons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reraicons for Vue 3 / Nuxt 3",
   "type": "module",
   "files": ["dist"],
